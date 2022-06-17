@@ -1,2 +1,2 @@
-# spinner
-A simple react app to run a spinner on different options
+# Spinner
+Making decisions is hard. I made this app to do it for me.
