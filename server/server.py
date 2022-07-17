@@ -3,7 +3,6 @@ from flask import Flask, send_from_directory
 from flask_cors import CORS
 
 from datetime import datetime
-import time
 
 app = Flask(__name__, static_folder='../client/public')
 CORS(app)
